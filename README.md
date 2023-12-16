@@ -1,10 +1,10 @@
-# WareHouse-System for "Muhammadislom"
-#### A PostgresSQL, Entity Framework database representing a structure of the primitive goods control solution
+# App WareHouse-System for "Muhammadislom"
+#### Goods control system with PostgresSQL and Entity Framework
 ## Structure:
 ### Entities: Warehouse, Supplier, Product, Customer
 --------------------------------------------------------------------------------------------------
-### Procedures:
+### Main Procedures:
 #### The warehouse imports products from supplier
 #### Customer orders products from the warehouse
---------------------------------------------------------------------------------------------------
 ### Saving and returning the HISTORY of procedures in the form of a report
+--------------------------------------------------------------------------------------------------
