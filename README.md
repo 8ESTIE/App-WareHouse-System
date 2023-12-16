@@ -1,5 +1,5 @@
 # App WareHouse-System for "Muhammadislom"
-#### Goods control system with PostgresSQL and Entity Framework
+Goods control system with 4 logical units and corresponding functions and history storage...
 ## Structure:
 ### Entities: Warehouse, Supplier, Product, Customer
 --------------------------------------------------------------------------------------------------
